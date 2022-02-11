@@ -1,0 +1,8 @@
+Infos importantes para comitar no GitHub:
+
+Abrir o Git Bash
+- git status
+- git add .
+- git status
+- git commit -m "Nome do commit"
+- git push origin main
